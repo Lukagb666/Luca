@@ -1,0 +1,15 @@
+lista=[]
+while True:#condición a evaluar
+    opcion=input("Menú de opciones\n1-agregar elementos a la lista\n2-eliminar elementos en la lista\n3-modiicar elementos en la lista\n4-mostrar elementos en la lista\n5-salir del programa")
+    if opcion=="1":
+         elementosAgregar=input("ingrese elemento a agregar:")
+         l.append(elementoAgregar)
+    elif opcion=="2":
+        elementoEliminar
+        print("")        
+    elif opcion=="3":
+        print("Saliendo del sistema")
+        break
+    else:
+        print("La opción ingresada es invalida")    
+   

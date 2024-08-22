@@ -1,0 +1,5 @@
+clima=input("ingrese clima:")#indica que hay que ingresar datos
+if clima=="lluvioso": #muestra el dato ingresado,muestra su mensaje 
+   print("hoy no hizamos la bandera")#muestra lo que pasaría/el resultado
+else:
+   print("hoy se hiza la bandera")#

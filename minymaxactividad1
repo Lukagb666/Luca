@@ -1,0 +1,6 @@
+nombresdeanimales=("Perro","Jirafa","Ave")
+buscar=input ("Jirafa")
+if buscar in nombresdeanimales:
+   print: ("jirafa",buscar"se encuentra dentro de la lista")
+else:
+   print: ("jirafa",buscar "no se encuentra dentro de la lista")

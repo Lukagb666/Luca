@@ -1,0 +1,3 @@
+nombres= ["Alex","Mara","Ramiro"]
+nombres.sort()
+print (nombres)

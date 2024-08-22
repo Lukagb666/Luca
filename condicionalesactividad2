@@ -1,0 +1,6 @@
+nombredesocios=input("ingrese nombres de los socios")
+sociosabuscar=["Micaela","Hugo","Ignacio"]
+if socio>="Laura": # type: ignore
+Print ("El socio encontrado es:", sociosabuscar)
+else:
+

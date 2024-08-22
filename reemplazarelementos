@@ -1,0 +1,10 @@
+generosmusicales=["indie,country,pop,hip-hop"]
+print ("generosmusicales")
+generosmusicales.append("country")
+generosmusicales.append("pop")
+print("lista completa despues usar append",generosmusicales)
+generosmusicales.append("hip-hop")
+print("despues de reemplazar pop con country")
+generosmusicales.insert ["reggueaton"]
+generosmusicales.remove["hip-hop"]
+print generosmusicales

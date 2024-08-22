@@ -1,0 +1,18 @@
+usuario="rata"
+contraseña:"8750"
+u=input("INGRESE NOMBRE DE USUARIO: ")
+c=input("INGRESE SU CONTRASEÑA: ")
+contador=1
+
+while u!=usuario or c!=contraseña and contador<4:
+    u=input("INGRESE NOMBRE DE USUARIO: ")
+c=input("INGRESE SU CONTRASEÑA: ")
+print(" Vuelta numero ",contador)
+contador=contador+1
+
+
+if u==usuario and c==contraseña:
+    print ("Bienvenido al sistema")
+else:
+    print("Usted no puede ingresar al sistema")
+S
